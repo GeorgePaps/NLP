@@ -1,2 +1,3 @@
 # NLP
-A repository where I explore Natural Language Programming 
+
+A repository where I explore Natural Language Programming (NLP).
