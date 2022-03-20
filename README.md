@@ -32,4 +32,3 @@ On the top of my head I can think of 2 main reasons:
 Maybe a third that comes to my mind is to create a system for a machine to reason.
 It seems to me that to some extend we humans use language for thinking,
 maybe a similar functionality could be achieved with machines.
-
