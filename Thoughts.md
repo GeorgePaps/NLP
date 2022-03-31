@@ -2,9 +2,7 @@ Here I will collect some of my thoughs on Natural Language Processing.
 
 List of contents:
 
-1. Why Study NLP
-
-
+1. Why Study NLP 
 
 ## 1. Why Study NLP
 

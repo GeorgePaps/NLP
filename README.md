@@ -23,7 +23,7 @@ I'll deal later with that.
 
 ## What is NLP
 
-On a higher level I like to think of what NLP is in the light of my favorite intelligence definition. 
+On a higher level I like to think of what NLP is in the light of this  intelligence definition. 
 
 > Intelligence: the ability to perceive or deduce information, retain it as knowledge, and apply it to make decisions. 
 
