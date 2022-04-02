@@ -16,8 +16,7 @@ This repository will track part of my learning journey.
 
 I will start exploring the topic somewhat organically and my approach will evolve along the way.
 For time being I will start by exploring this very interesting [repository](https://github.com/keon/awesome-nlp) and reading [this](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf) and [this](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236/) book. 
-Additionally I would like to start working on some problems,
-I'll deal later with that.
+Additionally, I will be following this [udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) course. 
 
 ---
 
