@@ -1,5 +1,7 @@
+.gitignore
 NLPvenv
 .vscode
 UPDATED_NLP_COURSE
 NLPCourse1
 Cavafis
+oop.ipynb
