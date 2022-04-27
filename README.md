@@ -14,6 +14,17 @@ I will start exploring the topic somewhat organically and my approach will evolv
 For time being I will start by exploring this very interesting [repository](https://github.com/keon/awesome-nlp) and reading [this](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf) and [this](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236/) book.
 Additionally, I will be following this [udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) course.
 
+[27/04]
+
+Still mostly focused on the course. 
+I have seen many interesting topics and I am close to finishing it.
+Topics I covered include:
+
+- Vocabulary Matching w Spacy
+- Scikit learn for NLP
+- Semantincs and Sentiment Analysis w NLTK and NLP
+- Deep Learnign for NLP with Keras
+
 [09/04]
 
 The past days I have been mostly focusing on the [udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) course.
