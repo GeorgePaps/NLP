@@ -14,6 +14,17 @@ I will start exploring the topic somewhat organically and my approach will evolv
 For time being I will start by exploring this very interesting [repository](https://github.com/keon/awesome-nlp) and reading [this](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf) and [this](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236/) book.
 Additionally, I will be following this [udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) course.
 
+[18/05]
+
+Finished the [udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) course.
+Started the [CS229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1)
+course taught by Andrew NG (youtube - Autumn 2018),
+a rather interesting course as well.
+
+Tried a getting started kaggle competition as well.
+Not much time this period though,
+will focus on the Andrew NG course for time being.  
+
 [27/04]
 
 Still mostly focused on the course. 
@@ -49,21 +60,6 @@ A more specific definition of NLP would be:
 > NLP refers to a set of techniques involving the application of statistical methods, with ot without insights from linguistics, to understand text for the sake of solving real-world tasks.
 This "understanding" of of text is mainly derived by transforming texts to computational representations,
 which are discrete or continuous combinatorial structures such as vectors or tensors, graphs, and trees.[1]
-
-## The Computational Graphs
-
-A very interesting concept I encountered early in this book[1] is that of computational graph. In thw words of the authors:
-
-> Put simply, deep learning enables one to efficiently learn representations from data using an abstraction called the computational graph and numerical optimization techniques.[1]
-
-## Supervised Learning Paradigm
-
-
-## Observation and Target Encoding
-
-A very interesting quote I encountered[1] regarding target encoding is the following:
-
->In deep learning, it is rare to see inputs encoded using heuristic representations like TF-IDF because **the goal is to learn a representation**.
 
 ---
 
